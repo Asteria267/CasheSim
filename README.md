@@ -259,9 +259,3 @@ If you’ve ever struggled to *feel* why caches matter, this should help.
 ```
 
 ---
-
-If you want, I can also:
-- add GIF demo generation instructions  
-- tailor it for recruiters (portfolio style)  
-- or make a minimal academic-style README instead
-```
